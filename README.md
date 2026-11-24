@@ -1,2 +1,2 @@
 # Moriya Magica
-Welcome to the organization page of Moriya Magica.
+> This repository holds the organization README (found under `profile/README.md`)
